@@ -1,0 +1,5 @@
+Bla bla
+
+Leandro paga la birra
+Wally paga 2 birras por dejar bcrypt roto en backend
+Kike paga 2 birras por tener poca fe
